@@ -1,4 +1,4 @@
-# soap-paynet-billing
+# SOAP API для системы биллинга мерчанта платежной системы Paynet
 SOAP-интерфейс для биллинга мерчанта платежной системы Paynet
 
 Скомпилированное java-приложение запускает soap-интерфейс, соответствуюший требованиям из документации платежной системы Paynet. Документацию можно найти по ссылке - [https://github.com/rakhmatov-dev/soap-paynet-billing/blob/master/docs/ProviderWebServiceDeveloperManual-v1.3.pdf](https://github.com/rakhmatov-dev/soap-paynet-billing/blob/master/docs/ProviderWebServiceDeveloperManual-v1.3.pdf)
