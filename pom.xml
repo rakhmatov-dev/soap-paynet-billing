@@ -8,10 +8,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.in28minutes.soap.webservices</groupId>
-	<artifactId>soap-course-management</artifactId>
+	<artifactId>soap-paynet-billing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>soap-course-management</name>
-	<description>Demo project for Spring Boot</description>
+	<name>soap-paynet-billing</name>
+	<description>Merchant SOAP API</description>
 	<packaging>jar</packaging>
 	<properties>
 		<java.version>1.8</java.version>

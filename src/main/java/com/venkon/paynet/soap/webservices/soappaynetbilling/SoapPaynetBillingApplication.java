@@ -21,7 +21,7 @@ public class SoapPaynetBillingApplication {
 			String serverPort = args[0];
 			String wsLogin = args[1];
 			String wsPassword = args[2];
-			String billingUrl = args[3];
+			String billingUrl = args[3]; 
 			String billingLogin = args[4];
 			String billingPassword = args[5];
 
