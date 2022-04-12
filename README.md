@@ -18,6 +18,6 @@ java -jar С:\Projects\Java\Soap\soap-paynet-billing\target\soap-course-manageme
 
 [http://localhost:8383/ws/ProviderWebService.wsdl](http://localhost:8383/ws/ProviderWebService.wsdl)
 
-ВАЖНО:
+## Важно
 
 В файле https://github.com/rakhmatov-dev/soap-paynet-billing/blob/master/pom.xml есть закомментированные плагины. Это сделано для того, чтобы при каждом построении проекта классы на основе файла https://github.com/rakhmatov-dev/soap-paynet-billing/blob/master/src/main/resources/ProviderWebService.xsd не пересоздавались, так как после первичного создания эти классы были отредактированы вручную.
